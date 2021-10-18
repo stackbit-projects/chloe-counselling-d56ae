@@ -47,7 +47,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: text
-        name: Your Phone number
+        name: Phone number
         label: Phone Number
         default_value: Your Phone Number
         options: []

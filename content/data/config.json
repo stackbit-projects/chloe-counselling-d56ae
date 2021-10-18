@@ -40,7 +40,8 @@
             },
             {
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "label": "What is Counselling"
             },
             {
                 "label": "lorem-ipsum",

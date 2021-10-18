@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Person Centred Integrative Counselling
-    subtitle: Chloe Farrow (MBACP)
+    subtitle: Chloe Farrow (MBCAP)
     actions:
       - label: Contact Me
         url: /contact

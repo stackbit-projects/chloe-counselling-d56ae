@@ -49,7 +49,7 @@ sections:
       - input_type: text
         name: Your Phone number
         label: Phone Number
-        default_value: lorem-ipsum
+        default_value: Your Phone Number
         options: []
         is_required: false
       - input_type: textarea

@@ -60,12 +60,6 @@ sections:
         name: consent
         label: 'Tick this box if it is OK for me to contact you by phone. '
         is_required: true
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
     submit_label: Send Message
     align_vert: top
     padding_top: medium

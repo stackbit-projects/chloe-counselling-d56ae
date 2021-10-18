@@ -47,7 +47,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: text
-        name: Your
+        name: Your Phone number
         label: Phone Number
         default_value: lorem-ipsum
         options: []

@@ -46,16 +46,16 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
       - input_type: text
         name: lorem-ipsumYour
         label: Phone Number
         default_value: lorem-ipsum
         options: []
         is_required: false
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-

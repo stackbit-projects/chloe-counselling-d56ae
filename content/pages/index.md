@@ -21,56 +21,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     content: " I am an Integrative counsellor and I work with young people and adults (aged 11 +) online or face to face in central Braunton, North Devon.\n\nI offer a safe, confidential and warm space for you to make sense of whatever it is that you are going through or need help with right now.\_\_\n\nTo be able to talk to someone openly and free of judgement can be incredibly beneficial especially when you are going through hard times. It can help promote healing and provide a sense of perspective and clarity. It also gives you some time in your week when you know someone will be there, just for you.\n"
-  - type: grid_section
-    title: Testimonials
-    subtitle: What My Clients Say
-    grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
-
-
-          **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
-
-
-          **Gordon Norman,** *Web Designer, Local Business*
-        image: images/gordon-norman.png
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-    background_image: images/watercolor.png
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 12
   - type: form_section
     content: >-
       ## Let's talk

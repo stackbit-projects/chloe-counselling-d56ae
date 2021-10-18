@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Person Centred Integrative Counselling
-    subtitle: "My name is Chloe, I am an Integrative counsellor and I work with young people and adults (aged 11 +) online or face to face in central Braunton, North Devon. I offer a safe, confidential and warm space for you to make sense of whatever it is that you are going through or need help with right now.\_\_To be able to talk to someone openly and free of judgement can be incredibly beneficial especially when you are going through hard times. It can help promote healing and provide a sense of perspective and clarity. It also gives you some time in your week when you know someone will be there, just for you."
+    subtitle: Chloe Farrow
     actions:
       - label: Contact Me
         url: /contact

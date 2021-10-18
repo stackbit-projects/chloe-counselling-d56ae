@@ -20,6 +20,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    content: "My name is Chloe, I am an Integrative counsellor and I work with young people and adults (aged 11 +) online or face to face in central Braunton, North Devon. \n\n\n\nI offer a safe, confidential and warm space for you to make sense of whatever it is that you are going through or need help with right now.\_\_\n\n\n\nTo be able to talk to someone openly and free of judgement can be incredibly beneficial especially when you are going through hard times. It can help promote healing and provide a sense of perspective and clarity. It also gives you some time in your week when you know someone will be there, just for you.\n\n"
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with

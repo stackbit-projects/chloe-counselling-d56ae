@@ -58,9 +58,7 @@ sections:
         default_value: Your message
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: 'Tick this box if it is OK for me to contact you by phone. '
         is_required: true
       - input_type: text
         name: lorem-ipsum
